@@ -1,4 +1,4 @@
-# External MHA Transformer - TensorFlow 
+# External MHA Transformer - TF.Keras 
 An Unofficial Implementation of External Attention in TF 2. Paperwork https://arxiv.org/abs/2105.02358
 
 ![](https://user-images.githubusercontent.com/17668390/141291708-7c3cd892-d508-4cca-8306-a8b06a38c158.png)
